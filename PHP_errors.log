@@ -1,0 +1,22 @@
+[12-May-2020 05:28:59 Europe/Moscow] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'last_ucp_login' specified twice
+trace: #0 /home/admin/web/rc-rp.ru/public_html/rb.php(1029): RedBeanPHP\Driver\RPDO->runQuery()
+#1 /home/admin/web/rc-rp.ru/public_html/rb.php(3642): RedBeanPHP\Driver\RPDO->Execute()
+#2 /home/admin/web/rc-rp.ru/public_html/rb.php(10698): RedBeanPHP\Adapter\DBAdapter->exec()
+#3 /home/admin/web/rc-rp.ru/public_html/rb.php(11415): RedBeanPHP\Facade::query()
+#4 /home/admin/web/rc-rp.ru/public_html/main.php(37): RedBeanPHP\Facade::exec()
+#5 /home/admin/web/rc-rp.ru/public_html/auth.php(8): user_auth()
+#6 {main}
+  thrown in /home/admin/web/rc-rp.ru/public_html/rb.php on line 735
+[12-May-2020 05:30:30 Europe/Moscow] PHP Warning:  file_get_contents(null): failed to open stream: No such file or directory in /home/admin/web/rc-rp.ru/public_html/news/index.php on line 14
+[12-May-2020 05:30:30 Europe/Moscow] PHP Warning:  strpos(): Offset not contained in string in /home/admin/web/rc-rp.ru/public_html/news/index.php on line 29
+[12-May-2020 05:30:30 Europe/Moscow] PHP Warning:  strpos(): Offset not contained in string in /home/admin/web/rc-rp.ru/public_html/news/index.php on line 38
+[12-May-2020 05:30:30 Europe/Moscow] PHP Warning:  strpos(): Offset not contained in string in /home/admin/web/rc-rp.ru/public_html/news/index.php on line 48
+[12-May-2020 05:30:34 Europe/Moscow] PHP Warning:  file_get_contents(null): failed to open stream: No such file or directory in /home/admin/web/rc-rp.ru/public_html/news/index.php on line 14
+[12-May-2020 05:30:34 Europe/Moscow] PHP Warning:  strpos(): Offset not contained in string in /home/admin/web/rc-rp.ru/public_html/news/index.php on line 29
+[12-May-2020 05:30:34 Europe/Moscow] PHP Warning:  strpos(): Offset not contained in string in /home/admin/web/rc-rp.ru/public_html/news/index.php on line 38
+[12-May-2020 05:30:34 Europe/Moscow] PHP Warning:  strpos(): Offset not contained in string in /home/admin/web/rc-rp.ru/public_html/news/index.php on line 48
+[12-May-2020 05:30:37 Europe/Moscow] PHP Notice:  Undefined variable: error in /home/admin/web/rc-rp.ru/public_html/admin/search.php on line 33
+[12-May-2020 05:30:37 Europe/Moscow] PHP Notice:  Undefined variable: error in /home/admin/web/rc-rp.ru/public_html/admin/search.php on line 40
+[12-May-2020 05:30:41 Europe/Moscow] PHP Notice:  Undefined index: ban-result in /home/admin/web/rc-rp.ru/public_html/admin/user.php on line 18
+[12-May-2020 05:30:41 Europe/Moscow] PHP Notice:  Undefined index: last_ip in /home/admin/web/rc-rp.ru/public_html/admin/user.php on line 59
+[12-May-2020 05:30:41 Europe/Moscow] PHP Notice:  Undefined index: last_ip in /home/admin/web/rc-rp.ru/public_html/admin/user.php on line 59

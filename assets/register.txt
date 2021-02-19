@@ -1,0 +1,174 @@
+<section class="content">
+    <div class="container">
+    
+<div class="alert alert-warning alert-dismissible">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button><h5>
+                    <i class="far fa-clock"></i> 
+                    <b>ЗАЯВКА ВАШЕГО ПЕРСОНАЖА НА РАССМОТРЕНИИ!</b></h5>
+                    Пока Вы ждете одобрения, Вы можете полистать разделы на форуме: http://forum.rc-rp.ru!
+                </div><div class="row">
+            <div class="col-lg-5 col-6">
+                <h1>Jewking Test</h1><br>
+            </div>
+    <div class="col-lg-7 col-6">
+</div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-3">
+                <div class="card">
+    <div class="card-header">
+        <i class="fa fa-fw fa-child color-blue"></i><strong style="
+    font-size: 18px;
+">Сменить скин персонажа</strong>
+    </div>
+    <div class="card-body">
+        <img class="profile-user-img img-responsive" src="../assets/skins/12.png">
+        <hr style="
+    margin: 10px 0px 20px;
+">
+        <p style="text-align: center;margin: 0px;"><small><b style="">SKIN ID:</b> 213</small></p>                                            
+    </div>
+</div>
+
+
+            </div>
+
+<div class="col-sm-4">
+                <div class="card">
+                    <div class="card-header">
+    <i class="fas fa-cloud color-blue"></i><strong style="font-size: 18px;"> Внеролевая информация</strong>
+</div>
+<div class="card-body">
+    <div class="row">
+        <div class="col-sm-8">
+            Аккаунт #
+        </div>
+        <div class="col-sm-4">
+    <p style="float: right; margin: 0px;">10</p>
+</div>
+    </div>
+    <div class="row">
+        <div class="col-sm-8">
+            Cтатус
+        </div>
+        <div class="col-sm-4">
+    <p style="float: right; margin: 0px;">Стандарт</p>
+</div>
+    </div>
+    <div class="row">
+        <div class="col-sm-8">
+            Время в игре
+        </div>
+        <div class="col-sm-4">
+    <p style="float: right; margin: 0px;">190</p>
+</div>
+    </div>
+    <div class="row">
+        <div class="col-sm-8">
+            Время до PayDay
+        </div><div class="col-sm-4">
+    <p style="float: right; margin: 0px;">190</p>
+</div>
+    
+    </div>
+    <br>
+<div class="progress">
+                  <div class="progress-bar bg-primary progress-bar-striped" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%;text-align: center;align-content: center;align-self: baseline;">
+                    <span class="sr-only">40% Complete (success)</span>
+                  </div>
+                </div>
+</div></div>
+
+<div class="card">
+                    <div class="card-header">
+    <i class="fas fa-shield-alt color-blue"></i><strong style="font-size: 18px;"> Безопасность</strong>
+</div>
+<div class="card-body">
+    <div class="row">
+        <div class="col-sm-6">Последний вход</div>
+        <div class="col-sm-6">
+    <p style="float: right; margin: 0px;">02/03/2017, 22:56</p>
+</div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">Последний IP адрес</div>
+        <div class="col-sm-6">
+    <p style="float: right; margin: 0px;">150.01.01.10</p>
+</div>
+    </div>
+    <div class="row">
+        <div class="col-sm-7">IP адрес при регистрации</div>
+        <div class="col-sm-5">
+    <p style="float: right; margin: 0px;">255.255.255.255</p>
+</div>
+    </div>
+    
+    
+
+</div></div>
+
+
+            </div>
+    <div class="col-sm-5">
+    <div class="card">
+                    <div class="card-header">
+    <i class="fas fa-user color-blue"></i><strong style="font-size: 18px;"> Ролевая информация</strong>
+</div>
+<div class="card-body">
+    <div class="row">
+    <div class="col-sm-5">Имя персонажа</div>
+    <div class="col-sm-7"><p style="float: right; margin: 0px;"><i class="fas fa-pencil-alt color-blue"></i> Jewking_Test</p></div>
+</div>
+<div class="row">
+    <div class="col-sm-5">Дата рождения</div>
+    <div class="col-sm-7"><p style="float: right; margin: 0px;">16/02/1995</p></div>
+</div>
+<div class="row">
+    <div class="col-sm-5">Место рождения</div>
+    <div class="col-sm-7"><p style="float: right; margin: 0px;">USA, SA, Palomino Creek</p></div>
+</div>
+<div class="row">
+    <div class="col-sm-5">Номер телефона</div>
+    <div class="col-sm-7"><p style="float: right; margin: 0px;"><i class="fas fa-pencil-alt color-blue"></i> 776111</p></div>
+</div>
+<div class="row">
+    <div class="col-sm-5">Фракция</div>
+    <div class="col-sm-7"><p style="float: right; margin: 0px;">N/A</p></div>
+</div><br>
+<div class="row">
+    <div class="col-sm-5">Наличные</div>
+    <div class="col-sm-6"><p style="float: right; margin: 0px;"><i class="fa fa-dollar-sign color-green"></i>1601</p></div>
+</div>
+<div class="row">
+    <div class="col-sm-5">Банковский счёт</div>
+    <div class="col-sm-6"><p style="float: right; margin: 0px;"><i class="fa fa-dollar-sign color-green"></i>1601</p></div>
+</div>
+<div class="row">
+    <div class="col-sm-5">Сберегательный счёт</div>
+    <div class="col-sm-6"><p style="float: right; margin: 0px;"><i class="fa fa-dollar-sign color-green"></i>1601</p></div>
+</div>
+<div class="row">
+    <div class="col-sm-5">Зарплата</div>
+    <div class="col-sm-6"><p style="float: right; margin: 0px;"><i class="fa fa-dollar-sign color-green"></i>1601</p></div>
+</div><br><div class="row">
+    <div class="col-sm-4">Лицензии</div>
+    <div class="col-sm-8"><p style="float: right; margin: 0px;">Таксиста: <spam style="font-weight: 600;color: #009400;">ЕСТЬ</spam>, 
+Полёты: <spam style="font-weight: 600;color: #009400;">ЕСТЬ</spam>, 
+Вождение: <spam style="font-weight: 600;color: #009400;">ЕСТЬ</spam>, 
+Оружие: <spam style="font-weight: 600;color: #009400;">ЕСТЬ</spam> <spam style="font-weight: 600;color: #cc2828;">(0/3)</spam></p><p></p></div>
+</div>
+<br><div class="row">
+    <div class="col-sm-6">Стиль боя</div>
+    <div class="col-sm-6"><p style="float: right; margin: 0px;"><i class="fas fa-pencil-alt color-blue"></i> Стандарт</p></div>
+</div>
+
+    
+    
+    
+    
+
+</div></div>
+    </div>
+        </div>
+    </div></section>
